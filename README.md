@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm OUALID ELHADIM</h1>
 <h3 align="center">A Software engineer at ALX from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oualiid&label=Profile%20views&color=0e75b6&style=flat" alt="oualiid" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oualiid" alt="oualiid" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/walid_elhadim" target="blank"><img src="https://img.shields.io/twitter/follow/walid_elhadim?logo=twitter&style=for-the-badge" alt="walid_elhadim" /></a> </p>
 
 - 🌱 I’m currently learning **C programming language**
