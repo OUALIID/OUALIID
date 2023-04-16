@@ -26,10 +26,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-            
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)         
 
  <h1><div align="center">          
 <img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="700.56px" /></div></h>
