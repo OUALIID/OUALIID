@@ -2,6 +2,8 @@
          
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=24&pause=100&color=65FF00&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=Hey+there+it's+me;%E2%95%B0%E2%9C%A7OUALID_ELHADIM%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%93;I'm+a+19-year-old;I+living+in++Morocco;I'm+obsessed+with+coding;I+love+learning+new+things;I'm+software+atengineer+ALX!)](https://git.io/typing-svg)</div>
 
+
+
 <div align="center"><p><a href="https://twitter.com/walid_|   ELHADIM" target="_blank"><img
             src="https://img.shields.io/badge/|-OUALID-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
             src="https://img.shields.io/badge/|-OUALID-blue?logo=facebook&style=for-the-badge"/></a> <a href="https://www.instagram.com/walid.hdm/" target="_blank"><img
@@ -14,8 +16,7 @@
  <div align="center">          
 <img src="PIPLO1/s9.gif" alt="coding" width="700px" height="300px" /></div>
 
-
-
+<h1><a>BIO😎💻<a></h1>
 
 
 # 📊 GitHub Stats:
