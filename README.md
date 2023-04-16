@@ -26,6 +26,8 @@
 # GitHub Stats 📈🔍
 
 ![](https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)         
-[![GitHub Streak](https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=45%2CEB545400%2C2000EBFE)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=45%2CEB545400%2C2000EBFE)](https://git.io/streak-stats)![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)         
+
+      
+            
+       
