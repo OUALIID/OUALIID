@@ -27,5 +27,5 @@
 
 
  <div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="383px" height="38.56px" /></div>
+<img src="PIPLO1/snake.svg" alt="coding" width="1003px" height="100.56px" /></div>
 
