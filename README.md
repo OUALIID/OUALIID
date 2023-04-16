@@ -25,7 +25,7 @@
 # GitHub Stats 📈🔍
 ![](https://github-readme stats.vercel.app/apiusername=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top langs/username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/toplangs/username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
             
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
