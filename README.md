@@ -12,7 +12,7 @@
             src="https://img.shields.io/badge/|-OUALID-blue?logo=telegram&style=for-the-badge"/></a></p></div>
                  
  <div align="center">          
-<img src="PIPLO1/s9.gif" alt="coding" width="400px" height="550px" /></div>
+<img src="PIPLO1/s9.gif" alt="coding" width="600px" height="350px" /></div>
 
 
 
