@@ -15,8 +15,7 @@
 <img src="PIPLO1/s9.gif" alt="coding" width="600px" height="350px" /></div>
 
 
-<h2 dir="auto"><a id="user-content-ayoub-bounader-" class="anchor" aria-hidden="true" href="#ayoub-bounader-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a>Ayoub BOUNADER 👨🏻&zwj;💻<g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"><img class="emoji" alt="bar_chart" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png"></g-emoji><g-emoji class="g-emoji" alias="chart_with_downwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c9.png"><img class="emoji" alt="chart_with_downwards_trend" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c9.png"></g-emoji></h2>
-
+<h2 dir="auto"><a id="user-content-ayoub-bounader-" class="anchor" aria-hidden="true" href="#OUALIDELHADIM-"
 
 
 # 📊 GitHub Stats:
