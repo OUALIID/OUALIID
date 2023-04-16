@@ -26,6 +26,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
- <div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="700.56px" /></div>
+ <h1><div align="center">          
+<img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="700.56px" /></div></h>
 
