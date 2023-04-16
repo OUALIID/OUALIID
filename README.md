@@ -12,8 +12,9 @@
             src="https://img.shields.io/badge/|-OUALID-blue?logo=WhatsApp&style=for-the-badge"/></a> <a href=https://t.me/Walid_Hdm_2004 target="_blank"><img
             src="https://img.shields.io/badge/|-OUALID-blue?logo=telegram&style=for-the-badge"/></a></p></div>
 
+</ul>
 <div align="center">          
         
-<img src="/home/oualid/Desktop/project_alx/OUALIID/s7.gif" alt="coding" width="450px" height="350px" /></div>
-
+img src="/home/oualid/Desktop/project_alx/OUALIID/s7.gif" alt="coding" width="450px" height="350px" /></div>
+</ul>
 
