@@ -15,4 +15,4 @@
                  
  <div align="center">          
 
-<img src="PIPLO1/s7.gif" alt="coding" width="450px" height="350px" /></div>
+<img src="PIPLO1/s8.gif" alt="coding" width="450px" height="350px" /></div>
