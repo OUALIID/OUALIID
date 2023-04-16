@@ -19,7 +19,8 @@
  <div align="center">          
 <img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
 
-    <div align="center">          
+    <div align="center">  
+                
                 <img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="700.56px" /></div>        
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
