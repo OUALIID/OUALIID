@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=20027E&background=2107FF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHey+there%2C+it's+me%2C+OUALID_ELHADIM!;I'm+a+19-year-old+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+living+in+%F0%9F%87%B2%F0%9F%87%A6+Morocco.;%F0%9F%92%BBI'm+obsessed+with+coding+;I+m+software+engineer+student+at+ALX!%F0%9F%98%8E)](https://git.io/typing-svg)
+<div align="center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=20027E&background=2107FF00&center=true&vCenter=true&width=435&lines=%F0%9F%91%8BHey+there%2C+it's+me%2C+OUALID_ELHADIM!;I'm+a+19-year-old+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F;I+living+in+%F0%9F%87%B2%F0%9F%87%A6+Morocco.;%F0%9F%92%BBI'm+obsessed+with+coding+;I+m+software+engineer+student+at+ALX!%F0%9F%98%8E)](https://git.io/typing-svg)</div>
 
 
 <div align="center"><p><a href="https://twitter.com/walid_|   ELHADIM" target="_blank"><img
