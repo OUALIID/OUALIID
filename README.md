@@ -20,11 +20,11 @@
 <img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
 
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
-<p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p>
+<p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p>[](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)<br/>
 
 # GitHub Stats 📈🔍
-![](https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=OUALIID&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
