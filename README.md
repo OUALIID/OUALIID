@@ -16,7 +16,7 @@
  <div align="center">          
 <img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
 
-<h1><a>BIO😎💻<a></h1>
+<h1><a>😎💻BIO<a></h1>
 <p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p>
 
 # 📊 GitHub Stats:
