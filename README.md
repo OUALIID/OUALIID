@@ -13,5 +13,4 @@
             src="https://img.shields.io/badge/|-OUALID-blue?logo=telegram&style=for-the-badge"/></a></p></div>
 
 <div align="center">          
-        
-<img src="/home/oualid/Desktop/project_alx/OUALIID/s7.gif" alt="coding" width="450px" height="350px" /></div>
+        <img src="/home/oualid/Desktop/project_alx/OUALIID/s7.gif" alt="coding" width="450px" height="350px" /></div>
