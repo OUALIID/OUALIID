@@ -17,5 +17,5 @@
             src="https://img.shields.io/badge/|-walid-elhadim-752a04268-blue?logo=linkedin&style=for-the-badge"
             alt="walid-elhadim-752a04268" /></a>
 <a href="https://discord.com/channels/@OUALID#6141" target="_blank"><img
-            src="https://img.shields.io/badge/|-@OUALID#6141-blue?logo=discord&style=for-the-badge"
-            alt="@OUALID#6141" /></a>
+            src="src=https://img.shields.io/badge/%7C-OUALID_ELHADIM-blue?style=flat-square&logo=linkedin"
+            alt="@OUALID#6141" /></a><p>
