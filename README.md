@@ -15,6 +15,6 @@
 </ul>
 <div align="center">          
         
-img src="/home/oualid/Desktop/project_alx/OUALIID/s7.gif" alt="coding" width="450px" height="350px" /></div>
+img src="OUALIID/README.md/s7.gif" alt="coding" width="450px" height="350px" /></div>
 </ul>
 
