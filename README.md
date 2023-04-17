@@ -35,7 +35,6 @@
 
 
 <div class="svg-bgcolor">
-    <div class="caption"></div>
-    <img src="file:///home/oualid/Desktop/project_alx/PIPLO/snake.svg">
+<img src="file:///home/oualid/Desktop/project_alx/PIPLO/snake.svg">
 </div>
  
