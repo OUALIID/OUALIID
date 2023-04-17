@@ -31,7 +31,7 @@
 
 
 <div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="700px" height="350px" /></div>
+<img src="PIPLO1/snake.svg" alt="coding" width="900px" height="550px" /></div>
 
             
        
