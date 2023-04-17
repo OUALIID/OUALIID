@@ -35,7 +35,7 @@
 <br>
 </div>
 <div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="650px" /></div>
+<img src="PIPLO1/snake.svg" alt="coding" width="549.26px" height="196.64px" /></div>
       
 
             
