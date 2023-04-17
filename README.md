@@ -24,9 +24,9 @@
 <p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>
 
 # GitHub Stats 📈🔍
-            
-![](https://github-readme-stats.vercel.app/api?         username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFE%2CEB545400)[
-![GitHub Streak](https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545400%2C2000EBFE)](https://git.io/streak-stats)
+
+![](https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFE%2CEB545400) [![GitHub Streak](https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545400%2C2000EBFE)](https://git.io/streak-stats)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFE%2CEB545400%2C2000EBFE)
 
 <div align="center">
