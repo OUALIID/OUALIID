@@ -6,8 +6,6 @@
 <div align="center"> Let's Connect and have a Chat!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji></div>
 </h1>
 
-            <div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div>
 
 <div align="center"><p><a href="https://twitter.com/walid_|   ELHADIM" target="_blank"><img
             src="https://img.shields.io/badge/|-OUALID-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
@@ -35,8 +33,8 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OUALIID}/count.svg" /></p> 
 <br>
 
-
-<div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div>
-
+<p>
+<a><div align="center">          
+<img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div></a>
+</p>
 
