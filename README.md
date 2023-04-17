@@ -30,11 +30,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFE%2CEB545400%2C2000EBFE)
  
 <div align="center">
-<br><p align="centre"><b>#🔥Visitors Count🔥</b></p>  
+<br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OUALIID}/count.svg" /></p> 
 <br>
-</div>
-<div align="center">          
+</div><div align="center">          
 <img src="PIPLO1/snake.svg" alt="coding" width="549.26px" height="196.64px" /></div>
       
 
