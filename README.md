@@ -36,8 +36,5 @@
 <div align="center">          
 <img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div>
 
-<br>
-<br>
-<a href="https://github.com/OUALIID/github-readme-activity-graph"><img alt="OUALID-ELHADIM's Activity Graph" src="https://activity-graph.herokuapp.com/graph? username=OUALIID&bg_color-801117&color-5BCDEC&line-5BCDEC&point-FFFFFF&hide_border=true" /></a>
-<br/>
-<br/>
+<a href="https://github.com/OUALIID/github-readme-activity-graph"><img alt="OUALID-ELHADIM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=OUALIID&bg_color=001117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
