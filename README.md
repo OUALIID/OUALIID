@@ -33,6 +33,9 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OUALIID}/count.svg" /></p> 
 <br>
 
-<a><div align="center">          
-<img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div></a>
 
+<div class="svg-bgcolor">
+    <div class="caption"></div>
+    <img src="file:///home/oualid/Desktop/project_alx/PIPLO/snake.svg">
+</div>
+ 
