@@ -37,5 +37,5 @@
 <img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div>
 
 
-[![OUALIID](https://github-readme-activity-graph.herokuapp.com/graph?username=OUALIID&theme=dracula)](https://github.com/OUALID-ELHADIM)
 
+<a target="_blank" rel="noopener noreferrer" href="https://github.com/belboukayyoub/belboukayyoub/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/belboukayyoub/belboukayyoub/raw/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;"></a>
