@@ -30,7 +30,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFE%2CEB545400%2C2000EBFE)
  
             
-<h1><div align="center">          
+<div align="center">          
 <img src="PIPLO1/snake.svg" alt="coding" width="1000px" height="650px" /></div>
       
 
