@@ -37,5 +37,5 @@
 <img src="PIPLO1/snake.svg" alt="coding" width="100000px" height="700.56px" /></div>
 
 
-href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph? username=OUALIID&bg_color-801117&color-5BCDEC&line-5BCDEC&point-FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/narayanbavisetti/github-readme-activity-graph"><img alt="Narayan's Activity Graph" src="https://activity-graph.herokuapp.com/graph? username=OUALIID&bg_color-801117&color-5BCDEC&line-5BCDEC&point-FFFFFF&hide_border=true" /></a>
 
