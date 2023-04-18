@@ -22,19 +22,20 @@
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>
+<div class="image-container">
 
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=OUALIID&theme=github-compact&hide_border=true&line=481A78&point=8C42D7&custom_title="/>
 
+
+ </div>
 # GitHub Stats 📈🔍
             
 <div class="image-container">
-            
-<div class="image-container">
+
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFE%2CEB545400"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545400%2C2000EBFE"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFE%2CEB545400%2C2000EBFE"/>
  </div>
- 
             
 <div align="center">
 <br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
@@ -43,3 +44,5 @@
 </div>
 
 ![snake gif](https://github.com/OUALIID/OUALIID/blob/output/github-contribution-grid-snake.svg)
+
+This coming from fork by nuux code
