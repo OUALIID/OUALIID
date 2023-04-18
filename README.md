@@ -43,4 +43,4 @@
 <br>
 </div>
 
-            
+![snake gif](https://github.com/OUALIID/OUALIID/blob/output/github-contribution-grid-snake.svg)
