@@ -23,7 +23,7 @@
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">My name is Walid OUALID-ELHADIM, I am 19 years old, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>
 
-<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=OUALIID&theme=github-compact&hide_border=true&line=481A78&point=8C42D7&custom_title="/>
+<img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=H-Asmaa&theme=github-compact&hide_border=true&line=481A78&point=8C42D7&custom_title="/>
 
 # GitHub Stats 📈🔍
             
