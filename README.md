@@ -1,6 +1,6 @@
 <div align="center">
             
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&pause=1000&color=9160FFFF&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%91%8BHey+there+it's+me;%E2%95%B0%E2%9C%A7OUALID+ELHADIM%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%93;+I'm+a+19-year-old+%F0%9F%99%8B;I'living++in+%F0%9F%87%B2%F0%9F%87%A6+Morocco;%F0%9F%92%BB+I'm+obsessed+with+coding;I'Love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;I'm+software+atengineer+at+ALX%F0%9F%98%8E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lora&weight=700&size=27&duration=1000&pause=1000&color=9160FF&background=F9FFF400&center=true&vCenter=true&width=500&height=60&lines=%F0%9F%91%8B+Hey+there+it's+me;%E2%95%B0%E2%9C%A7OUALID+ELHADIM%E2%80%A2%E2%80%A2%E1%9D%B0%F0%9F%92%97;I'm+a+19-year-old+%F0%9F%99%8B;I+live+in+%F0%9F%87%B2%F0%9F%87%A6+Morocco;%F0%9F%92%BB+I'm+obsessed+with+coding+;I+love+learning+new+things+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;Student+at+ALX-software+engineering)](https://git.io/typing-svg)
 
 <h1>
 <div align="center"> Let's Connect and have a Chat!<g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"><img class="emoji" alt="speech_balloon" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png"></g-emoji></div>
@@ -26,17 +26,16 @@
 
 <img width="100%" src="https://github-readme-activity-graph.cyclic.app/graph?username=OUALIID&theme=github-compact&hide_border=true&line=481A78&point=8C42D7&custom_title="/>
 
+
+ </div>
 # GitHub Stats 📈🔍
             
 <div class="image-container">
-
 
 <img width="45%" src="https://github-readme-stats.vercel.app/api?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=-25%2C2000EBFE%2CEB545400"/>
 <img width="49%" src="https://streak-stats.demolab.com?user=OUALIID&theme=highcontrast&hide_border=true&border_radius=3.5&border=EB5454&stroke=EB5454&ring=EB5454&background=25%2CEB545400%2C2000EBFE"/>
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OUALIID&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=%2C2000EBFE%2CEB545400%2C2000EBFE"/>
  </div>
-
- 
             
 <div align="center">
 <br><p align="centre"><b>🔥Visitors Count🔥</b></p>  
