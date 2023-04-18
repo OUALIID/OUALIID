@@ -41,7 +41,7 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ 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 }}
           branch: master
           force: true
 
