@@ -37,7 +37,9 @@
  
             
 <div align="center">
-<br><p align="centre"><b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&height=60&lines=%F0%9F%94%A5Visitors+Count%F0%9F%94%A5)](https://git.io/typing-svg)</b></p>  
+<br><p align="centre">
+            
+<b>[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Anton&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&height=60&lines=%F0%9F%94%A5Visitors+Count%F0%9F%94%A5)](https://git.io/typing-svg)</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{OUALIID}/count.svg"/></p> 
 <br>
 </div>
