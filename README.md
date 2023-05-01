@@ -8,13 +8,13 @@
 
 
 <div align="center"><p><a href="https://twitter.com/walid_|   ELHADIM" target="_blank"><img
-            src="https://img.shields.io/badge/|-facebook-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
+            src="https://img.shields.io/badge/|-TWITTER-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
             src="https://img.shields.io/badge/|-FACEBOOK-blue?logo=facebook&style=for-the-badge"/></a> <a href="https://www.instagram.com/walid.hdm/" target="_blank"><img
-            src="https://img.shields.io/badge/|-OUALID-blue?logo=instagram&style=for-the-badge"/></a> <a href="mailto:walid ELHADIM8@gmail.com"><img
-            src="https://img.shields.io/badge/|-OUALID-blue?logo=gmail&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/walid-ELHADIM-752a04268" target="_blank"><img
-            src="https://img.shields.io/badge/%7C-OUALID-blue?style=for-the-badge&logo=linkedin"/></a> <a href="https://wa.me//+212606956478"><img
-            src="https://img.shields.io/badge/|-OUALID-blue?logo=WhatsApp&style=for-the-badge"/></a> <a href=https://t.me/Walid_Hdm_2004 target="_blank"><img
-            src="https://img.shields.io/badge/|-OUALID-blue?logo=telegram&style=for-the-badge"/></a></p></div>
+            src="https://img.shields.io/badge/|-INSTAGRAM-blue?logo=instagram&style=for-the-badge"/></a> <a href="mailto:walid ELHADIM8@gmail.com"><img
+            src="https://img.shields.io/badge/|-GMAIL-blue?logo=gmail&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/walid-ELHADIM-752a04268" target="_blank"><img
+            src="https://img.shields.io/badge/%7C-LINKEDIN-blue?style=for-the-badge&logo=linkedin"/></a> <a href="https://wa.me//+212606956478"><img
+            src="https://img.shields.io/badge/|-WHATSAPP-blue?logo=WhatsApp&style=for-the-badge"/></a> <a href=https://t.me/Walid_Hdm_2004 target="_blank"><img
+            src="https://img.shields.io/badge/|-TELEGRAM-blue?logo=telegram&style=for-the-badge"/></a></p></div>
                  
  <div align="center">          
 <img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
