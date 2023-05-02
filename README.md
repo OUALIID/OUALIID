@@ -16,8 +16,8 @@
             src="https://img.shields.io/badge/|-WhatsApp-blue?logo=WhatsApp&style=for-the-badge"/></a> <a href=https://t.me/Walid_Hdm_2004 target="_blank"><img
             src="https://img.shields.io/badge/|-telegram-blue?logo=telegram&style=for-the-badge"/></a></p></div>
                  
- <div align="center">          
-<img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" /></div>
+ align="center">          
+<img src="PIPLO1/s9.gif" alt="coding" width="700px" height="350px" />
   
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
