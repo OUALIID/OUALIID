@@ -43,11 +43,3 @@
 </div>
 
 ![snake gif](https://github.com/OUALIID/OUALIID/blob/output/github-contribution-grid-snake.svg)
-            
-            
-            
-            
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?OUALIID=HwangTaehyun&limit=5)
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?OUALIID=HwangTaehyun&hide=B,B%2B)
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?OUALIID=HwangTaehyun&combine_all_yearly_contributions=true)
-![Taehyun's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?OUALIID=HwangTaehyun&hide=B&theme=default)
