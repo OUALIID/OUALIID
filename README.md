@@ -42,8 +42,13 @@
 <br>
 </div>
 
-<!--- snake -->
+<!--- snake 
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+-->
+
+[![committers.top badge](https://org-badge.committers.top/morocco/OUALIID.svg)](https://org-badge.committers.top/morocco/OUALIID)
+
+[![committers.top badge](https://user-badge.committers.top/morocco/OUALIID.svg)](https://user-badge.committers.top/morocco/OUALIID)
