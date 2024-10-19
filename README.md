@@ -8,8 +8,8 @@
 </h1>
 
 
-<div align="center"><p><a href="https://twitter.com/walid_elhadim" target="_blank"><img
-            src="https://img.shields.io/badge/|-twitter-blue?logo=twitter&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
+<div align="center"><p><a href="https://x.com/walid_elhadim" target="_blank"><img
+            src="https://img.shields.io/badge/|-x-blue?logo=x&style=for-the-badge"/></a> <a href="https://www.facebook.com/walid.hdm.33" target="_blank"><img
             src="https://img.shields.io/badge/|-facebook-blue?logo=facebook&style=for-the-badge"/></a> <a href="https://www.instagram.com/oualid_elhadim/" target="_blank"><img
             src="https://img.shields.io/badge/|-instagram-blue?logo=instagram&style=for-the-badge"/></a> <a href="mailto:walid ELHADIM8@gmail.com"><img
             src="https://img.shields.io/badge/|-gmail-blue?logo=gmail&style=for-the-badge"/></a> <a href="https://www.linkedin.com/in/walid-ELHADIM-752a04268" target="_blank"><img
@@ -23,6 +23,46 @@
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">My name is OUALID-ELHADIM, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>
+
+
+
+
+
+<h1 align="center">🔥 Languages & Frameworks & Tools 🔥</h1>
+<p align="center">
+    <code title="C" <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"></a></code>
+    <code title="C++"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"></a></code>
+    <code title="Python"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"></a></code>
+    <code title="OpenCV"><a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://opencv.org/wp-content/uploads/2022/05/logo.png" alt="OpenCV" width="40" height="40"></a></code>
+    <code title="Flask"><a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"></a></code>
+    <code title="PHP"><a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"></a></code>
+    <code title="Ruby"><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"></a></code>
+    <code title="HTML5"><a href="https://html.spec.whatwg.org/multipage/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"></a></code>
+    <code title="CSS3"><a href="https://www.w3.org/Style/CSS/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"></a></code>
+    <code title="Tailwind CSS"><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"></a></code>
+    <code title="JavaScript"><a href="https://www.w3schools.com/javascript/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"></a></code>
+    <code title="npm"><a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"></a></code>
+    <code title="Node.js"><a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"></a></code>
+    <code title="TypeScript"><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"></a></code>
+    <code title="MySQL"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"></a></code>
+    <code title="Query"><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="Query" width="40" height="40"></a></code>
+    <code title="MariaDB"><a href="https://mariadb.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="MariaDB" width="40" height="40"></a></code>
+    <code title="MongoDB"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"></a></code>
+    <code title="Redis"><a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"></a></code>
+    <code title="Docker"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"></a></code>
+    <code title="Linux"><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"></a></code>
+    <code title="Nginx"><a href="https://www.nginx.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"></a></code>
+    <code title="Bash"><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"></a></code>
+    <code title="Vim"><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="Vim" width="40" height="40"></a></code>
+    <code title="Emacs"><a href="https://www.gnu.org/software/emacs/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/emacs/emacs-original.svg" alt="Emacs" width="40" height="40"></a></code>
+    <code title="Git"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"></a></code>
+    <code title="GitHub"><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"></a></code>
+    <code title="VS Code"><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"></a></code>
+    <code title="Microsoft Visual Studio"><a href="https://visualstudio.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Microsoft Visual Studio" width="40" height="40"></a></code>
+    <code title="Arduino"><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"></a></code>
+    <code title="Figma"><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"></a></code>
+</p>
+
 
 
 # GitHub Stats 📈🔍
@@ -52,4 +92,5 @@
 [![committers.top badge](https://user-badge.committers.top/morocco/OUALIID.svg)](https://user-badge.committers.top/morocco/OUALIID)
 
 [![committers.top badge](https://org-badge.committers.top/morocco/OUALIID.svg)](https://org-badge.committers.top/morocco/OUALIID)
+
 
