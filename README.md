@@ -22,7 +22,9 @@
        
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
-<p dir="auto">My name is OUALID-ELHADIM, I obtained my bachelor’s degree last year in 2022. I am now engaged in the distance education system under the title alx. I study everything related to software engineering. What made me want to continue this educational program is the unique teaching method that seeks to make you a successful person in the future who sought to become a successful software engineer in the future.</p></h1>
+<p dir="auto">Hi, I’m Oualid Elhadim, a Full-Stack Software Engineer with a focus on backend development. I’m passionate about cybersecurity. I build scalable, dynamic applications using Python, JavaScript, Flask, NodeJS, SQL... 
+I’m also interested in IoT and robotics, where I work with technologies like Arduino, ESP32, ESP8266, and Digispark. I am constantly enhancing my expertise and am always open to collaborating on meaningful and impactful projects.
+</p></h1>
 
 
 
