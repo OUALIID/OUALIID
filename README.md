@@ -18,8 +18,12 @@
             src="https://img.shields.io/badge/|-telegram-blue?logo=telegram&style=for-the-badge"/></a></p></div>
                  
  <div align="center">          
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVxYmtiMWNqdTNzcWcxejJjaTB2cDM3YmJtbWZjZXJ5bzZyZWFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coding" width="700px" height="350px" /></div>
-       
+<img src="https://media1.tenor.com/m/2HoVARM547QAAAAd/animation-vs-animator-ava.gif" alt="coding" width="650px" height="320px" /></div>
+  
+
+<!---https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHVxYmtiMWNqdTNzcWcxejJjaTB2cDM3YmJtbWZjZXJ5bzZyZWFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif
+
+-->
             
 <h1><a>A LITTLE ABOUT ME 😎💻<a></h1>
 <p dir="auto">Hi, I’m Oualid Elhadim, a Full-Stack Software Engineer with a focus on backend development. I’m passionate about cybersecurity. I build scalable, dynamic applications using Python, JavaScript, Flask, NodeJS, SQL... 
